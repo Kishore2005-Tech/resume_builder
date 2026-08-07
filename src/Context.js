@@ -1,6 +1,5 @@
 
 
-const ResumeContext = createContext();
 
 export const useResume = () => useContext(ResumeContext);
 
