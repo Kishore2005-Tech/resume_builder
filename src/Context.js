@@ -115,7 +115,7 @@ export const ResumeProvider = ({ children }) => {
         },
     ]);
 
-    
+  const [projects, setProjects] = useState([  
         {
             id: "",
             name: "",
