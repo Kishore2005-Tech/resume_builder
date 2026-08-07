@@ -21,7 +21,7 @@ export const ResumeProvider = ({ children }) => {
         picture:"",
     });
 
-    
+    const [educationList, setEducationList] = useState([
         {
             id: "",
             degree: "",
