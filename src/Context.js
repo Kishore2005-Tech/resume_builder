@@ -3,7 +3,7 @@ import { useToast } from '@chakra-ui/react';
 
 const ResumeContext = createContext();
 
-
+export const useResume = () => useContext(ResumeContext);
 
     const printElem = useRef();
     const toast = useToast();
