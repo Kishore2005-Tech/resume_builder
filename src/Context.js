@@ -32,7 +32,7 @@ export const ResumeProvider = ({ children }) => {
         },
     ]);
 
-    
+    const [skills, setSkills] = useState([
         {
             id: 1,
             name: "JavaScript",
