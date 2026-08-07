@@ -103,7 +103,7 @@ export const ResumeProvider = ({ children }) => {
         },
     ]);
 
-    
+  const [workList, setWorkList] = useState([  
         {
             id: "",
             position: "",
