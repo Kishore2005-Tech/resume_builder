@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useRef, useState } from "react";
 import { useToast } from '@chakra-ui/react';
 
-
+const ResumeContext = createContext();
 
 
 
