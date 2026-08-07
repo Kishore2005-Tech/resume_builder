@@ -5,6 +5,7 @@ const ResumeContext = createContext();
 
 export const useResume = () => useContext(ResumeContext);
 
+export const ResumeProvider = ({ children }) => {
     const printElem = useRef();
     const toast = useToast();
 
