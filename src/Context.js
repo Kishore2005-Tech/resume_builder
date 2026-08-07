@@ -1,7 +1,7 @@
 
 
 
-export const useResume = () => useContext(ResumeContext);
+
 
 export const ResumeProvider = ({ children }) => {
 
