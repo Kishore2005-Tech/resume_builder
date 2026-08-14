@@ -32,7 +32,7 @@ A simple, customizable web application that lets users create, edit, and export 
 ## Features
 
 - 📝 **Guided**, section-by-section resume editor (personal info, education, experience, skills, projects)
-- 🎨 **Multiple resume** templates to choose from
+- 🎨 Multiple resume templates to choose from
 - 👀 Real-time live preview as you type
 - 📄 Export to PDF
 - 💾 Save and reload resume data (local storage / database)
