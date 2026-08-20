@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { ResumeProvider } from './Context';
+
 import './App.css';
 import Header from './components/Layouts/Header';
 import Navbar from './components/Layouts/Navbar';
