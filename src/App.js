@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 
 import './App.css';
 
-import Navbar from './components/Layouts/Navbar';
+
 import Footer from './components/Layouts/Footer';
 import Main from './components/Main';
 import WebFont from 'webfontloader';
