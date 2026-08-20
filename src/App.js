@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-
+import { ResumeProvider } from './Context';
 import './App.css';
 
 
