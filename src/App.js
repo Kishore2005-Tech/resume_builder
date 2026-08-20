@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     WebFont.load({
       google: {
-        
+        families: ['Pacifico', 'Poppins']
       }
     });
   }, []);
