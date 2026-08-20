@@ -3,7 +3,7 @@ import { ResumeProvider } from './Context';
 import './App.css';
 import Header from './components/Layouts/Header';
 import Navbar from './components/Layouts/Navbar';
-
+import Footer from './components/Layouts/Footer';
 import Main from './components/Main';
 import WebFont from 'webfontloader';
 
