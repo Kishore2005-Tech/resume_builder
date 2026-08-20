@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 
 import './App.css';
-import Header from './components/Layouts/Header';
+
 import Navbar from './components/Layouts/Navbar';
 import Footer from './components/Layouts/Footer';
 import Main from './components/Main';
