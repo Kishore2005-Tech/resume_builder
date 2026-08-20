@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { ResumeProvider } from './Context';
 import './App.css';
-
+import Header from './components/Layouts/Header';
 
 
 import Main from './components/Main';
