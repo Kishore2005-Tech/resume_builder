@@ -14,7 +14,7 @@ const Projects = () => {
     const handleChange = (e, id) => {
         const { name, value } = e.target;
         const updatedProject = projects.map((project) => (
-            
+        project.id === id ? Object.assign(project, { id: uuidv4(), [name]: value }) : project    
         ));
         setProjects(updatedProject);
     }
