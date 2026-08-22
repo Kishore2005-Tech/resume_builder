@@ -20,7 +20,7 @@ const Projects = () => {
     }
 
     const deleteProject = (id) => {
-        setProjects(projects.filter((elem) => elem.id !== id))
+        
     }
 
     return (
