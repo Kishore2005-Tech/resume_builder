@@ -13,7 +13,7 @@ const Projects = () => {
 
     const handleChange = (e, id) => {
         const { name, value } = e.target;
-        
+        const updatedProject = projects.map((project) => (
             
         ));
         setProjects(updatedProject);
