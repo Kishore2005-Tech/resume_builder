@@ -27,7 +27,7 @@ const Projects = () => {
         <>
             <Accordion allowToggle defaultIndex={[0]}>
                 {
-                    
+                    projects.map((project, index) => (
                         <AccordionItem key={index}>
                             <h2>
                                 <AccordionButton>
