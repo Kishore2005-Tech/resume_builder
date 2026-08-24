@@ -2,7 +2,7 @@ import { TabList, Tabs, Tab, TabPanels, TabPanel, Box, Text } from '@chakra-ui/r
 import React, { useEffect } from 'react'
 import { useResume } from '../Context'
 
-import Education from './BuildSteps/Education'
+
 import Projects from './BuildSteps/Projects'
 import Skills from './BuildSteps/Skills'
 import Work from './BuildSteps/Work'
