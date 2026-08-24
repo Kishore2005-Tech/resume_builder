@@ -1,7 +1,7 @@
 import { TabList, Tabs, Tab, TabPanels, TabPanel, Box, Text } from '@chakra-ui/react'
 import React, { useEffect } from 'react'
 import { useResume } from '../Context'
-
+import About from './BuildSteps/About'
 
 
 
