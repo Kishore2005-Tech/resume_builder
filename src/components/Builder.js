@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import { useResume } from '../Context'
 import About from './BuildSteps/About'
 import Education from './BuildSteps/Education'
-
+import Projects from './BuildSteps/Projects'
 
 import Work from './BuildSteps/Work'
 
