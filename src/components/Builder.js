@@ -23,7 +23,7 @@ const Builder = () => {
                 <TabList>
                     
                     
-                    <Tab><Text fontWeight={'medium'}>Skills</Text></Tab>
+                    
                     <Tab><Text fontWeight={'medium'}>Work</Text></Tab>
                     <Tab><Text fontWeight={'medium'}>Projects</Text></Tab>
                 </TabList>
