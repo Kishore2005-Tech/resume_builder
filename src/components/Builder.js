@@ -22,7 +22,7 @@ const Builder = () => {
             <Tabs isFitted variant='enclosed'>
                 <TabList>
                     
-                    <Tab><Text fontWeight={'medium'}>Education</Text></Tab>
+                    
                     <Tab><Text fontWeight={'medium'}>Skills</Text></Tab>
                     <Tab><Text fontWeight={'medium'}>Work</Text></Tab>
                     <Tab><Text fontWeight={'medium'}>Projects</Text></Tab>
