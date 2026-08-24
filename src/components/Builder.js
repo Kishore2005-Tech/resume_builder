@@ -4,7 +4,7 @@ import { useResume } from '../Context'
 
 
 
-import Skills from './BuildSteps/Skills'
+
 import Work from './BuildSteps/Work'
 
 const Builder = () => {
