@@ -62,7 +62,7 @@ A simple, customizable web application that lets users create, edit, and export 
 **Backend *(if applicable)*
 - Node.js / Express (or Python / Flask / Django)
 
-**Other Tools
+**Other Tools**
 - [PDF generation library, e.g. jsPDF / html2pdf.js]
 - [Database, e.g. MongoDB / SQLite]
 
