@@ -56,7 +56,7 @@ A simple, customizable web application that lets users create, edit, and export 
 
 > Update this to reflect your actual stack.
 
-**Frontend**
+**Frontend
 - HTML5 / CSS3 / JavaScript (or React, if applicable)
 
 **Backend** *(if applicable)*
