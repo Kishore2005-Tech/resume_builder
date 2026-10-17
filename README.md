@@ -25,7 +25,7 @@ A simple, customizable web application that lets users create, edit, and export 
 
 ## About
 
-**Resume Builder** helps users quickly generate polished, ATS-friendly resumes by filling out a guided form and choosing from pre-designed templates. No design skills required — just enter your details and export a ready-to-share resume.
+**Resume Builder helps users quickly generate polished, ATS-friendly resumes by filling out a guided form and choosing from pre-designed templates. No design skills required — just enter your details and export a ready-to-share resume.
 
 > Replace this section with 2–3 sentences describing what problem your app solves and who it's for.
 
