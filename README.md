@@ -59,7 +59,7 @@ A simple, customizable web application that lets users create, edit, and export 
 **Frontend
 - HTML5 / CSS3 / JavaScript (or React, if applicable)
 
-**Backend (if 
+**Backend 
 - Node.js / Express (or Python / Flask / Django)
 
 **Other Tools**
