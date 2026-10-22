@@ -36,7 +36,7 @@ A simple, customizable web application that lets users create, edit, and export 
 - Real-time live preview as you type
 - Export to PDF
 - Save and reload resume data (local storage / database)
-- 📱 Responsive design for desktop and mobile
+- Responsive design for desktop and mobile
 
 > Edit this list to match what your app actually does — remove anything not implemented yet, and add anything unique to your project.
 
